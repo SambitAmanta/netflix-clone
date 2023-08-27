@@ -15,7 +15,7 @@ function Login() {
     try {
       await signInWithEmailAndPassword(firebaseAuth, email, password);
     } catch (error) {
-      console.log(error.code);
+      alert(error.code);
     }
   };
 
