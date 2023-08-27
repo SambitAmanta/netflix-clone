@@ -26,7 +26,6 @@ Implemented Redux actions to dynamically filter content based on the selected ge
 Liked Movies and My List:
 Enabled users to like/unlike movies and shows.
 Stored user preferences in Firestore under their profile.
-
 Created a dedicated "My List" page to showcase liked content.
 
 Routing and Navigation:
