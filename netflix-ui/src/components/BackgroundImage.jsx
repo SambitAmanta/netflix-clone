@@ -1,11 +1,10 @@
 import React from "react";
-import background from "../assets/backgroundImage.jpg";
 import styled from "styled-components";
 
 export default function BackgroundImage() {
   return (
     <Container>
-      <img src={background} alt="background" />
+      <img src="https://i.imgur.com/XcjXhcj.jpg" alt="background" />
     </Container>
   );
 }
